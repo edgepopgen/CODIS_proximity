@@ -9,3 +9,5 @@ The script extract_proximity_info_030423.R extracts information about the number
 draw_Figure1_030423.R, as one might expect, draws Figure 1 from the paper.
 
 Figure2_tables3and4_030423.R assembles 10,000 random sets of 20 STRs and compares CODIS with them. It draws Figure 2, and with a described modification to a line near the beginning, draws Figure S1. It also assembles the information appearing in Tables 3-4 and S1-S3.
+
+The file CODIS_proximity.csv contains the output of extract_proximity_info.R with respect to the CODIS markers. The other output file is too large to post here.
